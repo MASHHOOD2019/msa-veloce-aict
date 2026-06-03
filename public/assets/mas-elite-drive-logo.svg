@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <style>@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;700');</style>
+  
+  <!-- Background -->
+  <rect width="400" height="400" fill="#0D0D0D"/>
+  
+  <!-- Outer ring -->
+  <circle cx="200" cy="200" r="190" fill="none" stroke="#C9A84C" stroke-width="1.5" opacity="0.4"/>
+  <circle cx="200" cy="200" r="180" fill="none" stroke="#C9A84C" stroke-width="2" opacity="0.8"/>
+  <circle cx="200" cy="200" r="170" fill="none" stroke="#C9A84C" stroke-width="0.5" opacity="0.3"/>
+  
+  <!-- Car silhouette line at top -->
+  <path d="M 130 140 Q 150 120 175 125 Q 190 128 200 118 Q 210 128 225 125 Q 250 120 270 140" fill="none" stroke="#C9A84C" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  
+  <!-- MAS Monogram - M -->
+  <path d="M 112 230 L 112 165 L 142 200 L 172 165 L 172 230" fill="none" stroke="#C9A84C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- MAS Monogram - A -->
+  <path d="M 192 230 L 215 165 L 238 230 M 200 200 L 230 200" fill="none" stroke="#C9A84C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- MAS Monogram - S -->
+  <path d="M 268 172 Q 268 165 258 165 L 248 165 Q 238 165 238 175 Q 238 185 248 188 L 258 192 Q 268 195 268 205 Q 268 215 258 215 L 248 215 Q 238 215 238 208" fill="none" stroke="#C9A84C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Bottom text -->
+  <text x="200" y="278" text-anchor="middle" fill="#C9A84C" font-family="Inter, sans-serif" font-weight="300" font-size="14" letter-spacing="8" opacity="0.8">ELITE DRIVE</text>
+  
+  <!-- Decorative dots -->
+  <circle cx="200" cy="296" r="1.5" fill="#C9A84C" opacity="0.5"/>
+  <circle cx="190" cy="296" r="1" fill="#C9A84C" opacity="0.3"/>
+  <circle cx="210" cy="296" r="1" fill="#C9A84C" opacity="0.3"/>
+</svg>

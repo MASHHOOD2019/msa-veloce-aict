@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#000"/>
+  <radialGradient id="g"><stop offset="0%" stop-color="#111"/><stop offset="100%" stop-color="#000"/></radialGradient>
+  <rect width="1920" height="1080" fill="url(#g)"/>
+  <text x="960" y="540" font-family="Georgia, serif" font-size="72" fill="#222" text-anchor="middle" font-style="italic">MSA VELOCE</text>
+  <text x="960" y="600" font-family="Arial, sans-serif" font-size="20" fill="#1a1a1a" text-anchor="middle" letter-spacing="8">HERO BACKGROUND</text>
+</svg>
